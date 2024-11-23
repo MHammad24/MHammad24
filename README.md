@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Coding in C++
 - 📫 How to reach me @m.hammadnadeem24@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am new in Github
 
 <!---
 MHammad24/MHammad24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
